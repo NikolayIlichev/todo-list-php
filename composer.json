@@ -1,0 +1,5 @@
+{
+    "require": {
+        "php-pagination/php-pagination": "^2.0"
+    }
+}

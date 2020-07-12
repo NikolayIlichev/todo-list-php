@@ -1,0 +1,48 @@
+.page_title {
+    text-align: center;
+    margin: 100px 0;
+}
+.tasks_wrap {
+    text-align: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.sort_wrap {
+    text-align: center;
+    max-width: 400px;
+    margin: 50px auto;
+}
+.one_line_text {
+    display: block;
+}
+.status_message {
+    color: darkred;
+    display: block;
+    margin-bottom: 15px;
+}
+.add_task_form {
+    margin: 0 auto;
+    max-width: 500px;
+}
+.table .status {
+    width: 140px;
+}
+.link_wrap {
+    text-align: right;
+}
+.link {
+    margin-right: 50px;
+    display: block;
+}
+.auth_status {
+    text-align: center;
+    display: block;
+}
+
+.table .status {
+    display: block;
+}
+.table .edited {
+    display: block;
+    margin-top: 15px;
+}

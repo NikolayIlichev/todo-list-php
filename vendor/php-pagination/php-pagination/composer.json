@@ -1,0 +1,25 @@
+{
+    "name": "php-pagination/php-pagination",
+    "description": "PHP Pagination Class with 4 types: Simple Pagination, Google Pagination, Digg/PHPBB Pagination Style.",
+    "keywords": ["page","paging", "paginator", "pagination"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Rafael Paulino",
+            "email": "rafaclasses@gmail.com",
+            "homepage": "http://rafaacademy.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "5.5.*"
+    },
+    "autoload": {
+        "psr-4": { "Pagination\\": "src/" },
+        "classmap": [
+            "src"
+        ]
+    }
+}
